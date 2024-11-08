@@ -16,7 +16,7 @@ jobs:
         with:
           token: ${{ secrets.PROFILE_METRICS }}
           # Options
-          user: saset2
+          user: santhoshsetikam
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Stockholm
